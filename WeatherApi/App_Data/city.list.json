@@ -1,0 +1,182 @@
+[
+  {
+    "id": 6553094,
+    "name": "Ascheberg",
+    "country": "DE",
+    "coord": {
+      "lon": 7.61667,
+      "lat": 51.783298
+    }
+  },
+  {
+    "id": 6553040,
+    "name": "Brüggen",
+    "country": "DE",
+    "coord": {
+      "lon": 6.1886,
+      "lat": 51.2379
+    }
+  },
+  {
+    "id": 2957818,
+    "name": "Bönen",
+    "country": "DE",
+    "coord": {
+      "lon": 7.76667,
+      "lat": 51.583328
+    }
+  },
+  {
+    "id": 2949188,
+    "name": "Bielefeld",
+    "country": "DE",
+    "coord": {
+      "lon": 8.5,
+      "lat": 52
+    }
+  },
+  {
+    "id": 6555717,
+    "name": "Baiersbronn",
+    "country": "DE",
+    "coord": {
+      "lon": 8.3495,
+      "lat": 48.515499
+    }
+  },
+  {
+    "id": 6552854,
+    "name": "Bad Zwischenahn",
+    "country": "DE",
+    "coord": {
+      "lon": 8.04142,
+      "lat": 53.1717
+    }
+  },
+  {
+    "id": 6557561,
+    "name": "Bad Honnef, Stadt",
+    "country": "DE",
+    "coord": {
+      "lon": 7.26114,
+      "lat": 50.647579
+    }
+  },
+  {
+    "id": 2921044,
+    "name": "Federal Republic of Germany",
+    "country": "DE",
+    "coord": {
+      "lon": 10.5,
+      "lat": 51.5
+    }
+  },
+  {
+    "id": 2922336,
+    "name": "Gatow",
+    "country": "DE",
+    "coord": {
+      "lon": 13.18285,
+      "lat": 52.483238
+    }
+  },
+  {
+    "id": 2915013,
+    "name": "Großstädteln",
+    "country": "DE",
+    "coord": {
+      "lon": 12.38333,
+      "lat": 51.26667
+    }
+  },
+  {
+    "id": 6553056,
+    "name": "Kreuzau",
+    "country": "DE",
+    "coord": {
+      "lon": 6.4771,
+      "lat": 50.729401
+    }
+  },
+  {
+    "id": 2892705,
+    "name": "Karow",
+    "country": "DE",
+    "coord": {
+      "lon": 13.48117,
+      "lat": 52.609039
+    }
+  },
+  {
+    "id": 2878044,
+    "name": "Lichtenrade",
+    "country": "DE",
+    "coord": {
+      "lon": 13.40637,
+      "lat": 52.398441
+    }
+  },
+  {
+    "id": 2861876,
+    "name": "Land Nordrhein-Westfalen",
+    "country": "DE",
+    "coord": {
+      "lon": 7,
+      "lat": 51.5
+    }
+  },
+  {
+    "id": 6553073,
+    "name": "Lindlar",
+    "country": "DE",
+    "coord": {
+      "lon": 7.3665,
+      "lat": 51.033199
+    }
+  },
+  {
+    "id": 6553081,
+    "name": "Much",
+    "country": "DE",
+    "coord": {
+      "lon": 7.3537,
+      "lat": 50.874699
+    }
+  },
+  {
+    "id": 6553078,
+    "name": "Odenthal",
+    "country": "DE",
+    "coord": {
+      "lon": 7.1182,
+      "lat": 51.034801
+    }
+  },
+  {
+    "id": 6547426,
+    "name": "Wardenburg",
+    "country": "DE",
+    "coord": {
+      "lon": 8.19785,
+      "lat": 53.062222
+    }
+  },
+  {
+    "id": 6553084,
+    "name": "Wachtberg",
+    "country": "DE",
+    "coord": {
+      "lon": 7.1259,
+      "lat": 50.6213
+    }
+  },
+  {
+    "id": 2835344,
+    "name": "Schwalmtal",
+    "country": "DE",
+    "coord": {
+      "lon": 6.26667,
+      "lat": 51.216671
+    }
+  }
+]
